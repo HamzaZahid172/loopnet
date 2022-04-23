@@ -3,7 +3,7 @@ Property sale site in which we scrape the all listing includes it's pagination l
 
 Install the following libraries
 
-###pip install pandas
+### pip install pandas
 
 
-###pip install bs4
+### pip install bs4
